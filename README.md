@@ -11,7 +11,7 @@ Here are some highlights from my projects that you can find here:
 * [Minishell](https://github.com/uygarpolat/minishell): Created a simple Bash-like shell in C.
 * [Webserv](https://github.com/cpireyre/webserv): HTTP/1.1 implementation in C++.
 * [LED PONG!](https://github.com/uygarpolat/LED-Pong): Built an Arduino-based Pong game, displayed on an LED Matrix and controlled via an app.
-* I constantly try to improve me [data structures and algorithms](https://www.w3schools.com/dsa/dsa_intro.php) proficiency in Python by:
+* I constantly try to improve my [data structures and algorithms](https://www.w3schools.com/dsa/dsa_intro.php) proficiency in Python by:
 	- Solving the [daily puzzle of Leetcode](https://github.com/uygarpolat/leetcode-daily), no exceptions.
 	- Completing the infamous [Roadmap from Neetcode](https://github.com/uygarpolat/neetcode-roadmap) (WIP).
 	- Finishing [The Advent of Code](https://github.com/uygarpolat/advent-of-code) every year, and retrospectively completing previous years (WIP).
