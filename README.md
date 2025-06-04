@@ -21,4 +21,4 @@ Here are some highlights from my projects that you can find here:
 
 Thanks for stopping by! 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/uygar-polat-b570a626b/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/uygarpolat/)
