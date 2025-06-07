@@ -4,6 +4,10 @@ I am currently a student at [Hive Helsinki](hive.fi), working on improving my pr
 
 I have a Bachelor's Degree in Maths and I am passionate about machine learning, data science, low-level programming, and embedded systems. I mostly work in C, C++, Python, and Assembly, and I have extensive experience with Arduino microcontrollers. I am currently deep-diving deep learning in the context of PyTorch by taking the course [*A deep understanding of deep learning*](https://www.udemy.com/course/deeplearning_x/).
 
+My current Github commit ranking in Finland:
+
+[![committers.top badge](https://user-badge.committers.top/finland/uygarpolat.svg)](https://user-badge.committers.top/finland/uygarpolat)
+
 Here are some highlights from my projects that you can find here:
 
 * [Libft](https://github.com/uygarpolat/libft): Recreated many of the C functions from scratch, using C.
