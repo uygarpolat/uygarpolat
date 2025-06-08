@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Uygar Polat. Thanks for being here!
 
-I am currently a student at [Hive Helsinki](hive.fi), working on improving my programming skills.
+I am currently a student at [Hive Helsinki](https://www.hive.fi/), working on improving my programming skills.
 
 I have a Bachelor's Degree in Maths and I am passionate about machine learning, data science, low-level programming, and embedded systems. I mostly work in C, C++, Python, and Assembly, and I have extensive experience with Arduino microcontrollers. I am currently deep-diving deep learning in the context of PyTorch by taking the course [*A deep understanding of deep learning*](https://www.udemy.com/course/deeplearning_x/).
 
@@ -21,7 +21,7 @@ Here are some highlights from my projects that you can find here:
 	- Finishing [The Advent of Code](https://github.com/uygarpolat/advent-of-code) every year, and retrospectively completing previous years (WIP).
 * [MiniRT](https://github.com/cpireyre/miniRT): Created a raytracer in C.
 * [Wordle](https://github.com/uygarpolat/ft_wordle): A wordle game you can play on terminal.
-* [ft_linear_regression](https://github.com/uygarpolat/ft_linear_regression): A simple gradient decent implementation in Python.
+* [ft_linear_regression](https://github.com/uygarpolat/ft_linear_regression): A simple gradient descent implementation in Python.
 
 Thanks for stopping by! 👋
 
