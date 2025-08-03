@@ -18,8 +18,8 @@ Here are some highlights from my projects that you can find here:
   	- [PyTorch exercises](https://github.com/uygarpolat/pytorch-exercises): A repo for tracking my random PyTorch implemenations (WIP).
 * [LED PONG!](https://github.com/uygarpolat/LED-Pong): Built an Arduino-based Pong game, displayed on an LED Matrix and controlled via an app.
 * I constantly try to improve my [data structures and algorithms](https://www.w3schools.com/dsa/dsa_intro.php) proficiency in Python by:
-	- Solving the [daily puzzle of Leetcode](https://github.com/uygarpolat/leetcode-daily), no exceptions.
-	- Completing the infamous [Roadmap from Neetcode](https://github.com/uygarpolat/neetcode-roadmap) (WIP).
+	- Solving the [daily puzzle of Leetcode](https://github.com/uygarpolat/leetcode-daily), every day, no exceptions.
+	- Completed the infamous [Neetcode 150](https://github.com/uygarpolat/neetcode-roadmap).
 	- Finishing [The Advent of Code](https://github.com/uygarpolat/advent-of-code) every year, and retrospectively completing previous years (WIP).
 * Web development project:
   	- [Webserv](https://github.com/cpireyre/webserv): HTTP/1.1 implementation in C++.
