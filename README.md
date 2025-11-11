@@ -1,6 +1,6 @@
-# Hi there 👋 My name is Uygar Polat. Thanks for being here!
+# Hi there 👋 My name is Uygar. Thanks for being here!
 
-I am currently a student at [Hive Helsinki](https://www.hive.fi/), working on improving my programming skills.
+I recently completed my studies at [Hive Helsinki](https://www.hive.fi/), sharpening my programming skills through rigorous, peer-to-peer, project-based learning, and I’m now looking for opportunities to contribute on a software team.
 
 I have a Bachelor's Degree in Maths and I am passionate about machine learning, data science, low-level programming, and embedded systems. I mostly work in C, C++, Python, and Assembly, and I have extensive experience with Arduino microcontrollers. I am currently learning backend development in Python's Django by taking [this Udemy course](https://www.udemy.com/course/python-django-the-practical-guide/).
 
