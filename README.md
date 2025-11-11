@@ -2,7 +2,7 @@
 
 I am currently a student at [Hive Helsinki](https://www.hive.fi/), working on improving my programming skills.
 
-I have a Bachelor's Degree in Maths and I am passionate about machine learning, data science, low-level programming, and embedded systems. I mostly work in C, C++, Python, and Assembly, and I have extensive experience with Arduino microcontrollers. I am currently deep-diving deep learning in the context of PyTorch by taking the course [*A deep understanding of deep learning*](https://www.udemy.com/course/deeplearning_x/).
+I have a Bachelor's Degree in Maths and I am passionate about machine learning, data science, low-level programming, and embedded systems. I mostly work in C, C++, Python, and Assembly, and I have extensive experience with Arduino microcontrollers. I am currently learning backend development in Python's Django by taking [this Udemy course](https://www.udemy.com/course/python-django-the-practical-guide/).
 
 My current Github commit ranking in Finland:
 
@@ -13,6 +13,7 @@ Here are some highlights from my projects that you can find here:
 * [Libft](https://github.com/uygarpolat/libft): Recreated many of the C functions from scratch, using C.
 * [Libasm](https://github.com/uygarpolat/libasm): Recreated many of the C functions from scratch, using x86_64 Assembly.
 * [Minishell](https://github.com/uygarpolat/minishell): Created a simple Bash-like shell in C.
+* [Simple Todo App](https://github.com/uygarpolat/simple-todo-app): A simple web app to practice backend development.
 * Machine learning:
   	- [ft_linear_regression](https://github.com/uygarpolat/ft_linear_regression): A simple gradient descent implementation in Python.
   	- [PyTorch exercises](https://github.com/uygarpolat/pytorch-exercises): A repo for tracking my random PyTorch implemenations (WIP).
