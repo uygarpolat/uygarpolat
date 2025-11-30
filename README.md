@@ -2,7 +2,7 @@
 
 I recently completed my studies at [Hive Helsinki](https://www.hive.fi/), sharpening my programming skills through rigorous, peer-to-peer, project-based learning, and I’m now looking for opportunities to contribute on a software team.
 
-I have a Bachelor's Degree in Maths and I am passionate about machine learning, data science, low-level programming, and embedded systems. I mostly work in C, C++, Python, and Assembly, and I have extensive experience with Arduino microcontrollers. I am currently learning backend development in Python's Django by taking [this Udemy course](https://www.udemy.com/course/python-django-the-practical-guide/).
+I have a Bachelor's Degree in Maths and I am passionate about machine learning, data science, low-level programming, and embedded systems. I mostly work in C, C++, Python, and Assembly, and I have extensive experience with Arduino microcontrollers. I am currently learning JavaScript by taking [this Udemy course](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/).
 
 My current Github commit ranking in Finland:
 
