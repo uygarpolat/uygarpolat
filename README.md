@@ -2,13 +2,34 @@
 
 I recently completed my studies at [Hive Helsinki](https://www.hive.fi/), sharpening my programming skills through rigorous, peer-to-peer, project-based learning, and I’m now looking for opportunities to contribute on a software team.
 
+My current GitHub commit ranking in Finland:
+
+[![committers.top badge](https://user-badge.committers.top/finland/uygarpolat.svg)](https://user-badge.committers.top/finland/uygarpolat)
+
 I have a Bachelor's Degree in Maths and I am passionate about machine learning, data science, low-level programming, embedded systems, and recently, full-stack development. I mostly work in Python, the big four of web dev (JavaScript, TypeScript, HTML, CSS), SQL, C/C++, and Assembly.
 
 I’m currently leveling up my theoretical full-stack skills through hands-on practice with [this complete web development Udemy course](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/).
 
-My current GitHub commit ranking in Finland:
+## My certificates:
 
-[![committers.top badge](https://user-badge.committers.top/finland/uygarpolat.svg)](https://user-badge.committers.top/finland/uygarpolat)
+<p align="left">
+	<img src="https://github.com/user-attachments/assets/cc2ad76a-210b-46b2-9bc1-f42dc6b0d247" width="320" />
+	<img src="https://github.com/user-attachments/assets/8e86d300-33db-44f1-919d-8f8c1bfa5b0f" width="320" />
+	<img src="https://github.com/user-attachments/assets/1a072a95-b3d2-4054-a0c4-1fc213d9fef6" width="320" />
+</p>
+
+<p align="left">
+	<img src="https://github.com/user-attachments/assets/354e114f-4a78-4b55-a971-9cf7163e21e1" width="320" />
+	<img src="https://github.com/user-attachments/assets/111ea2a5-de47-4af9-b9f3-c307055e4600" width="320" />
+	<img src="https://github.com/user-attachments/assets/058753f4-d981-4d4d-8dd5-1cb5a2bef6ce" width="320" />
+</p>
+
+<p align="left">
+	<img src="https://github.com/user-attachments/assets/5176a68f-12e0-4179-8fae-2b67d2ad5b59" width="320" />
+	<img src="https://github.com/user-attachments/assets/09f00c08-7135-48ea-9503-205dc37e6f53" width="320" />
+</p>
+
+## What I've been cooking:
 
 Here are some highlights from my projects that you can find here on GitHub:
 
