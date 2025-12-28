@@ -2,13 +2,13 @@
 
 I recently completed my studies at [Hive Helsinki](https://www.hive.fi/), sharpening my programming skills through rigorous, peer-to-peer, project-based learning, and I’m now looking for opportunities to contribute on a software team.
 
-My current GitHub commit ranking in Finland:
-
-[![committers.top badge](https://user-badge.committers.top/finland/uygarpolat.svg)](https://user-badge.committers.top/finland/uygarpolat)
-
 I have a Bachelor's Degree in Maths and I am passionate about machine learning, data science, low-level programming, embedded systems, and recently, full-stack development. I mostly work in Python, the big four of web dev (JavaScript, TypeScript, HTML, CSS), SQL, C/C++, and Assembly.
 
 I’m currently leveling up my theoretical full-stack skills through hands-on practice with [this complete web development Udemy course](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/).
+
+My current GitHub commit ranking in Finland:
+
+[![committers.top badge](https://user-badge.committers.top/finland/uygarpolat.svg)](https://user-badge.committers.top/finland/uygarpolat)
 
 ## My certificates:
 
