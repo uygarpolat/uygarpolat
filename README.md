@@ -10,7 +10,7 @@ My current GitHub commit ranking in Finland:
 
 [![committers.top badge](https://user-badge.committers.top/finland/uygarpolat.svg)](https://user-badge.committers.top/finland/uygarpolat)
 
-## My certificates:
+# My certificates:
 
 <p align="left">
 	<img src="https://github.com/user-attachments/assets/cc2ad76a-210b-46b2-9bc1-f42dc6b0d247" width="260" />
@@ -23,7 +23,7 @@ My current GitHub commit ranking in Finland:
 	<img src="https://github.com/user-attachments/assets/09f00c08-7135-48ea-9503-205dc37e6f53" width="260" />
 </p>
 
-## What I've been cooking:
+# What I've been cooking:
 
 Here are some highlights from my projects that you can find here on GitHub:
 
@@ -48,6 +48,6 @@ Here are some highlights from my projects that you can find here on GitHub:
 * [MiniRT](https://github.com/cpireyre/miniRT): Created a raytracer in C.
 * [Wordle](https://github.com/uygarpolat/ft_wordle): A wordle game you can play on terminal.
 
-Please feel free to reach about anything, I'm sure we could be friends. Thanks for stopping by! 👋
+Please feel free to reach out about anything, I'm sure we could be friends. Thanks for stopping by! 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/uygarpolat/)
