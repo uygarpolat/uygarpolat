@@ -13,6 +13,7 @@ My current GitHub commit ranking in Finland:
 # My certificates:
 
 <p align="left">
+	<img src="https://github.com/user-attachments/assets/fb14e49d-a7bd-47b7-baaf-ed181f509e15" width="260" />
 	<img src="https://github.com/user-attachments/assets/cc2ad76a-210b-46b2-9bc1-f42dc6b0d247" width="260" />
 	<img src="https://github.com/user-attachments/assets/8e86d300-33db-44f1-919d-8f8c1bfa5b0f" width="260" />
 	<img src="https://github.com/user-attachments/assets/1a072a95-b3d2-4054-a0c4-1fc213d9fef6" width="260" />
