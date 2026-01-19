@@ -28,13 +28,15 @@ My current GitHub commit ranking in Finland:
 
 Here are some highlights from my projects that you can find here on GitHub:
 
-* [Libft](https://github.com/uygarpolat/libft): Recreated many of the C functions from scratch, using C.
-* [Libasm](https://github.com/uygarpolat/libasm): Recreated many of the C functions from scratch, using x86_64 Assembly.
-* [Minishell](https://github.com/uygarpolat/minishell): Created a simple Bash-like shell in C.
 * Web development projects:
+    - A complete [Wordle clone](https://github.com/uygarpolat/wordle) with React.
+    - A full-stack application where you can [play the legendary game, Pong](https://github.com/dbejar-s/ft_transcendence).
   	- [Webserv](https://github.com/cpireyre/webserv): HTTP/1.1 implementation in C++.
 	- [Simple Todo App](https://github.com/uygarpolat/simple-todo-app): A simple web app to practice backend development.
   	- A basic [JSON web token (JWT) application](https://github.com/uygarpolat/simple-json-web-token).
+* [Libft](https://github.com/uygarpolat/libft): Recreated many of the C functions from scratch, using C.
+* [Libasm](https://github.com/uygarpolat/libasm): Recreated many of the C functions from scratch, using x86_64 Assembly.
+* [Minishell](https://github.com/uygarpolat/minishell): Created a simple Bash-like shell in C.
 * Machine learning:
   	- [ft_linear_regression](https://github.com/uygarpolat/ft_linear_regression): A simple gradient descent implementation in Python.
   	- [PyTorch exercises](https://github.com/uygarpolat/pytorch-exercises): A repo for tracking my random PyTorch implemenations (WIP).
