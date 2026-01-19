@@ -4,7 +4,7 @@ I recently completed my studies at [Hive Helsinki](https://www.hive.fi/), sharpe
 
 I have a Bachelor's Degree in Maths and I am passionate about machine learning, data science, low-level programming, embedded systems, and recently, full-stack development. I mostly work in Python, the big four of web dev (JavaScript, TypeScript, HTML, CSS), SQL, C/C++, and Assembly.
 
-I’m currently leveling up my theoretical full-stack skills through hands-on practice with [this complete web development Udemy course](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/).
+I’m currently leveling up my React skills through hands-on practice with [this complete React Udemy course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
 My current GitHub commit ranking in Finland:
 
