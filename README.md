@@ -13,16 +13,47 @@ My current GitHub commit ranking in Finland:
 # My certificates:
 
 <p align="left">
-	<img src="https://github.com/user-attachments/assets/fb14e49d-a7bd-47b7-baaf-ed181f509e15" width="260" />
-	<img src="https://github.com/user-attachments/assets/cc2ad76a-210b-46b2-9bc1-f42dc6b0d247" width="260" />
-	<img src="https://github.com/user-attachments/assets/8e86d300-33db-44f1-919d-8f8c1bfa5b0f" width="260" />
-	<img src="https://github.com/user-attachments/assets/1a072a95-b3d2-4054-a0c4-1fc213d9fef6" width="260" />
-	<img src="https://github.com/user-attachments/assets/354e114f-4a78-4b55-a971-9cf7163e21e1" width="260" />
-	<img src="https://github.com/user-attachments/assets/111ea2a5-de47-4af9-b9f3-c307055e4600" width="260" />
-	<img src="https://github.com/user-attachments/assets/058753f4-d981-4d4d-8dd5-1cb5a2bef6ce" width="260" />
-	<img src="https://github.com/user-attachments/assets/5176a68f-12e0-4179-8fae-2b67d2ad5b59" width="260" />
-	<img src="https://github.com/user-attachments/assets/09f00c08-7135-48ea-9503-205dc37e6f53" width="260" />
+  <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">
+    <img src="https://github.com/user-attachments/assets/f13c3db6-9afe-43dc-bf10-422bd1d1fde8" alt="React - The Complete Guide (incl. Next.js, Redux)" title="React - The Complete Guide (incl. Next.js, Redux)" width="260" />
+  </a>
+
+  <a href="https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/">
+    <img src="https://github.com/user-attachments/assets/fb14e49d-a7bd-47b7-baaf-ed181f509e15" alt="100 Days Of Code - 2025 Web Development Bootcamp" title="100 Days Of Code - 2025 Web Development Bootcamp" width="260" />
+  </a>
+
+  <a href="https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/">
+    <img src="https://github.com/user-attachments/assets/cc2ad76a-210b-46b2-9bc1-f42dc6b0d247" alt="JavaScript - The Complete Guide 2025 (Beginner + Advanced)" title="JavaScript - The Complete Guide 2025 (Beginner + Advanced)" width="260" />
+  </a>
+
+  <a href="https://www.udemy.com/course/the-complete-sql-bootcamp/">
+    <img src="https://github.com/user-attachments/assets/8e86d300-33db-44f1-919d-8f8c1bfa5b0f" alt="The Complete SQL Bootcamp: Go from Zero to Hero" title="The Complete SQL Bootcamp: Go from Zero to Hero" width="260" />
+  </a>
+
+  <a href="https://www.udemy.com/course/github-actions-the-complete-guide/">
+    <img src="https://github.com/user-attachments/assets/1a072a95-b3d2-4054-a0c4-1fc213d9fef6" alt="GitHub Actions - The Complete Guide" title="GitHub Actions - The Complete Guide" width="260" />
+  </a>
+
+  <a href="https://www.udemy.com/course/python-django-the-practical-guide/">
+    <img src="https://github.com/user-attachments/assets/354e114f-4a78-4b55-a971-9cf7163e21e1" alt="Python Django - The Practical Guide" title="Python Django - The Practical Guide" width="260" />
+  </a>
+
+  <a href="https://www.udemy.com/course/fastapi-the-complete-course/">
+    <img src="https://github.com/user-attachments/assets/111ea2a5-de47-4af9-b9f3-c307055e4600" alt="FastAPI - The Complete Course 2026 (Beginner + Advanced)" title="FastAPI - The Complete Course 2026 (Beginner + Advanced)" width="260" />
+  </a>
+
+  <a href="https://www.udemy.com/course/az900-azure/">
+    <img src="https://github.com/user-attachments/assets/058753f4-d981-4d4d-8dd5-1cb5a2bef6ce" alt="AZ-900: Microsoft Azure Fundamentals Exam Prep - 2025" title="AZ-900: Microsoft Azure Fundamentals Exam Prep - 2025" width="260" />
+  </a>
+
+  <a href="https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/">
+    <img src="https://github.com/user-attachments/assets/5176a68f-12e0-4179-8fae-2b67d2ad5b59" alt="The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero" title="The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero" width="260" />
+  </a>
+
+  <a href="https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/">
+    <img src="https://github.com/user-attachments/assets/09f00c08-7135-48ea-9503-205dc37e6f53" alt="The Complete Hands-On Introduction to Apache Airflow 3" title="The Complete Hands-On Introduction to Apache Airflow 3" width="260" />
+  </a>
 </p>
+
 
 # What I've been cooking:
 
