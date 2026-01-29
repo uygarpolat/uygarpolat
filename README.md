@@ -2,23 +2,25 @@
 
 I recently completed my studies at [Hive Helsinki](https://www.hive.fi/), sharpening my programming skills through rigorous, peer-to-peer, project-based learning, and I’m now looking for opportunities to contribute on a software team.
 
-I have a Bachelor's Degree in Maths and I am passionate about machine learning, data science, low-level programming, embedded systems, and recently, full-stack development. I mostly work in Python, the big four of web dev (JavaScript, TypeScript, HTML, CSS), SQL, C/C++, and Assembly.
-
-I’m currently leveling up my React skills through hands-on practice with [this complete React Udemy course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+I have a Bachelor's Degree in Maths and I am passionate about lots of different things, including full-stack development, machine learning, data science, low-level programming and embedded systems. I mostly work in Python, the big four of web dev (JavaScript, TypeScript, HTML, CSS), SQL, C/C++, and Assembly.
 
 My current GitHub commit ranking in Finland:
 
 [![committers.top badge](https://user-badge.committers.top/finland/uygarpolat.svg)](https://user-badge.committers.top/finland/uygarpolat)
 
-# My certificates:
+# My certificates (click on pics to go to the course):
 
 <p align="left">
+  <a href="https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/">
+    <img src="https://github.com/user-attachments/assets/fb14e49d-a7bd-47b7-baaf-ed181f509e15" alt="100 Days Of Code - 2025 Web Development Bootcamp" title="100 Days Of Code - 2025 Web Development Bootcamp" width="260" />
+  </a>
+	
   <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">
     <img src="https://github.com/user-attachments/assets/f13c3db6-9afe-43dc-bf10-422bd1d1fde8" alt="React - The Complete Guide (incl. Next.js, Redux)" title="React - The Complete Guide (incl. Next.js, Redux)" width="260" />
   </a>
 
-  <a href="https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/">
-    <img src="https://github.com/user-attachments/assets/fb14e49d-a7bd-47b7-baaf-ed181f509e15" alt="100 Days Of Code - 2025 Web Development Bootcamp" title="100 Days Of Code - 2025 Web Development Bootcamp" width="260" />
+  <a href="https://www.udemy.com/course/react-typescript-the-practical-guide/">
+    <img src="https://github.com/user-attachments/assets/9cc211d0-6b0c-4b2b-88e3-a21abdbbe802" alt="React & TypeScript - The Practical Guide" title="React & TypeScript - The Practical Guide" width="260" />
   </a>
 
   <a href="https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/">
