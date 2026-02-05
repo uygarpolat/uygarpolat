@@ -1,4 +1,12 @@
-# Hi there 👋 My name is Uygar. Thanks for being here!
+# Hi there 👋 My name is Uygar. Thanks for being here! Here's my portfolio:
+<br>
+<div align="center">
+  <a href="https://uygarpolat.com">
+    <img src="https://raw.githubusercontent.com/uygarpolat/portfolio/main/public/header.svg" alt="uygarpolat.com" width="500" />
+  </a>
+</div>
+<br>
+<br>
 
 I recently completed my studies at [Hive Helsinki](https://www.hive.fi/), sharpening my programming skills through rigorous, peer-to-peer, project-based learning, and I’m now looking for opportunities to contribute on a software team.
 
