@@ -1,12 +1,15 @@
-# Hi there 👋 My name is Uygar. Thanks for being here! Here's my portfolio:
+# Hi there 👋 My name is Uygar. Thanks for being here!
 <br>
 <div align="center">
+	<h3 align="center">Here's my portfolio:</h3>
   <a href="https://uygarpolat.com">
     <img src="https://raw.githubusercontent.com/uygarpolat/portfolio/main/public/header.svg" alt="uygarpolat.com" width="500" />
   </a>
 </div>
 <br>
 <br>
+
+# A bit about me:
 
 I recently completed my studies at [Hive Helsinki](https://www.hive.fi/), sharpening my programming skills through rigorous, peer-to-peer, project-based learning, and I’m now looking for opportunities to contribute on a software team.
 
@@ -70,6 +73,7 @@ My current GitHub commit ranking in Finland:
 Here are some highlights from my projects that you can find here on GitHub:
 
 * Web development projects:
+	- My [personal portfolio page](https://github.com/uygarpolat/portfolio), built with React in TypeScript.
     - A complete [Wordle clone](https://github.com/uygarpolat/wordle) with React.
     - A full-stack application where you can [play the legendary game, Pong](https://github.com/dbejar-s/ft_transcendence).
   	- [Webserv](https://github.com/cpireyre/webserv): HTTP/1.1 implementation in C++.
