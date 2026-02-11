@@ -38,6 +38,10 @@ My current GitHub commit ranking in Finland:
     <img src="https://github.com/user-attachments/assets/cc2ad76a-210b-46b2-9bc1-f42dc6b0d247" alt="JavaScript - The Complete Guide 2025 (Beginner + Advanced)" title="JavaScript - The Complete Guide 2025 (Beginner + Advanced)" width="260" />
   </a>
 
+  <a href="https://www.udemy.com/course/go-the-complete-guide/">
+    <img src="https://github.com/user-attachments/assets/d896a280-9a1b-424b-94c2-a334cf4d4ac0" alt="Go - The Complete Guide" title="TGo - The Complete Guide" width="260" />
+  </a>
+
   <a href="https://www.udemy.com/course/the-complete-sql-bootcamp/">
     <img src="https://github.com/user-attachments/assets/8e86d300-33db-44f1-919d-8f8c1bfa5b0f" alt="The Complete SQL Bootcamp: Go from Zero to Hero" title="The Complete SQL Bootcamp: Go from Zero to Hero" width="260" />
   </a>
