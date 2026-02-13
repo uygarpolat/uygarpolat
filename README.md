@@ -80,7 +80,7 @@ Here are some highlights from my projects that you can find here on GitHub:
 	- My [personal portfolio page](https://github.com/uygarpolat/portfolio), built with React in TypeScript.
     - A complete [Wordle clone](https://github.com/uygarpolat/wordle) with React.
     - A full-stack application where you can [play the legendary game, Pong](https://github.com/dbejar-s/ft_transcendence).
-    - A (simple rest API implementation in Go)[https://github.com/uygarpolat/go-rest-api].
+    - A [simple rest API implementation in Go](https://github.com/uygarpolat/go-rest-api).
   	- [Webserv](https://github.com/cpireyre/webserv): HTTP/1.1 implementation in C++.
 	- [Simple Todo App](https://github.com/uygarpolat/simple-todo-app): A simple web app to practice backend development.
   	- A basic [JSON web token (JWT) application](https://github.com/uygarpolat/simple-json-web-token).
@@ -92,7 +92,7 @@ Here are some highlights from my projects that you can find here on GitHub:
   	- [PyTorch exercises](https://github.com/uygarpolat/pytorch-exercises): A repo for tracking my random PyTorch implemenations (WIP).
 * [LED PONG!](https://github.com/uygarpolat/LED-Pong): Built an Arduino-based Pong game, displayed on an LED Matrix and controlled via an app.
 * I constantly try to improve my [data structures and algorithms](https://www.w3schools.com/dsa/dsa_intro.php) proficiency in Python by:
-	- Solving the [daily puzzle of Leetcode](https://github.com/uygarpolat/leetcode-daily), every day, no exceptions.
+	- Solving the [daily puzzle of Leetcode](https://github.com/uygarpolat/leetcode-daily).
 	- Completed the infamous [Neetcode 150](https://github.com/uygarpolat/neetcode-roadmap).
 	- Finishing [The Advent of Code](https://github.com/uygarpolat/advent-of-code) every year, and retrospectively completing previous years (WIP).
 * [DevOps with Docker](https://github.com/uygarpolat/devops-with-docker): My progress repo for following [The University of Helsinki's MOOC](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker).
