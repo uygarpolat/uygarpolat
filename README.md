@@ -80,6 +80,7 @@ Here are some highlights from my projects that you can find here on GitHub:
 	- My [personal portfolio page](https://github.com/uygarpolat/portfolio), built with React in TypeScript.
     - A complete [Wordle clone](https://github.com/uygarpolat/wordle) with React.
     - A full-stack application where you can [play the legendary game, Pong](https://github.com/dbejar-s/ft_transcendence).
+    - A (simple rest API implementation in Go)[https://github.com/uygarpolat/go-rest-api].
   	- [Webserv](https://github.com/cpireyre/webserv): HTTP/1.1 implementation in C++.
 	- [Simple Todo App](https://github.com/uygarpolat/simple-todo-app): A simple web app to practice backend development.
   	- A basic [JSON web token (JWT) application](https://github.com/uygarpolat/simple-json-web-token).
