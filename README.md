@@ -33,6 +33,10 @@ My current GitHub commit ranking in Finland:
   <a href="https://www.udemy.com/course/react-typescript-the-practical-guide/">
     <img src="https://github.com/user-attachments/assets/9cc211d0-6b0c-4b2b-88e3-a21abdbbe802" alt="React & TypeScript - The Practical Guide" title="React & TypeScript - The Practical Guide" width="260" />
   </a>
+  
+  <a href="https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/">
+    <img src="https://github.com/user-attachments/assets/78fb2955-3b4e-4d28-9ca0-acb9f40575a1" alt="Next.js & React - The Complete Guide" title="Next.js & React - The Complete Guide" width="260" />
+  </a>
 
   <a href="https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/">
     <img src="https://github.com/user-attachments/assets/cc2ad76a-210b-46b2-9bc1-f42dc6b0d247" alt="JavaScript - The Complete Guide 2025 (Beginner + Advanced)" title="JavaScript - The Complete Guide 2025 (Beginner + Advanced)" width="260" />
