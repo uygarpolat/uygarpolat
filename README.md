@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Uygar. Thanks for being here!
+# Hi there 👋 <br> My name is Uygar. Thanks for being here!
 <br>
 <div align="center">
 	<h3 align="center">Here's my portfolio:</h3>
