@@ -54,6 +54,10 @@ My current GitHub commit ranking in Finland:
     <img src="https://github.com/user-attachments/assets/1a072a95-b3d2-4054-a0c4-1fc213d9fef6" alt="GitHub Actions - The Complete Guide" title="GitHub Actions - The Complete Guide" width="260" />
   </a>
 
+<a href="https://www.udemy.com/course/docker-kubernetes-the-practical-guide/">
+    <img src="https://github.com/user-attachments/assets/0e4cb745-7b40-4078-85ae-806326a576f1" alt="Docker & Kubernetes: The Practical Guide" title="Docker & Kubernetes: The Practical Guide" width="260" />
+  </a>
+
   <a href="https://www.udemy.com/course/python-django-the-practical-guide/">
     <img src="https://github.com/user-attachments/assets/354e114f-4a78-4b55-a971-9cf7163e21e1" alt="Python Django - The Practical Guide" title="Python Django - The Practical Guide" width="260" />
   </a>
