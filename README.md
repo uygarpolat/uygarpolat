@@ -93,8 +93,8 @@ Here are some highlights from my projects that you can find here on GitHub:
 	- [Simple Todo App](https://github.com/uygarpolat/simple-todo-app): A simple web app to practice backend development.
   	- A basic [JSON web token (JWT) application](https://github.com/uygarpolat/simple-json-web-token).
 * Mobile development projects:
-  	- [Calm Wiki](https://github.com/uygarpolat/wiki), an original mobile app for reading two-minute summaries of interesting Wikipedia articles in React Native, Expo, Expo Router and TypeScript.
-  	- [Simple Goals](https://github.com/uygarpolat/simple-goals), a small goal-tracking app built with React Native, Expo and JavaScript.
+  	- [Calm Wiki](https://github.com/uygarpolat/wiki), an original mobile app for reading two-minute summaries of interesting Wikipedia articles, built with React Native, Expo, Expo Router and TypeScript.
+  	- [Simple Goals](https://github.com/uygarpolat/simple-goals), a small goal-tracking app, built with React Native, Expo and JavaScript.
 * [Libft](https://github.com/uygarpolat/libft): Recreated many of the C functions from scratch, using C.
 * [Libasm](https://github.com/uygarpolat/libasm): Recreated many of the C functions from scratch, using x86_64 Assembly.
 * [Minishell](https://github.com/uygarpolat/minishell): Created a simple Bash-like shell in C.
