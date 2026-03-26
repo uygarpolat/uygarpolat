@@ -13,7 +13,7 @@
 
 I recently completed my studies at [Hive Helsinki](https://www.hive.fi/), sharpening my programming skills through rigorous, peer-to-peer, project-based learning, and I’m now looking for opportunities to contribute on a software team.
 
-I have a Bachelor's Degree in Maths and I am passionate about lots of different things, including full-stack development, machine learning, data science, low-level programming and embedded systems. I mostly work in Python, the big four of web dev (JavaScript, TypeScript, HTML, CSS), SQL, C/C++, and Assembly.
+I have a Bachelor's Degree in Maths and I am passionate about lots of different things, including full-stack/mobile development, machine learning, data science, low-level programming and embedded systems. I mostly work in Python, the big four of web dev (JavaScript, TypeScript, HTML, CSS), SQL, C/C++, and Assembly.
 
 My current GitHub commit ranking in Finland:
 
@@ -92,6 +92,9 @@ Here are some highlights from my projects that you can find here on GitHub:
   	- [Webserv](https://github.com/cpireyre/webserv): HTTP/1.1 implementation in C++.
 	- [Simple Todo App](https://github.com/uygarpolat/simple-todo-app): A simple web app to practice backend development.
   	- A basic [JSON web token (JWT) application](https://github.com/uygarpolat/simple-json-web-token).
+* Mobile development projects:
+  	- [Calm Wiki](https://github.com/uygarpolat/wiki), an original mobile app for reading two-minute summaries of interesting Wikipedia articles in React Native, Expo, Expo Router and TypeScript.
+  	- [Simple Goals](https://github.com/uygarpolat/simple-goals), a small goal-tracking app built with React Native, Expo and JavaScript.
 * [Libft](https://github.com/uygarpolat/libft): Recreated many of the C functions from scratch, using C.
 * [Libasm](https://github.com/uygarpolat/libasm): Recreated many of the C functions from scratch, using x86_64 Assembly.
 * [Minishell](https://github.com/uygarpolat/minishell): Created a simple Bash-like shell in C.
