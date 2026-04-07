@@ -66,6 +66,10 @@ My current GitHub commit ranking in Finland:
     <img src="https://github.com/user-attachments/assets/111ea2a5-de47-4af9-b9f3-c307055e4600" alt="FastAPI - The Complete Course 2026 (Beginner + Advanced)" title="FastAPI - The Complete Course 2026 (Beginner + Advanced)" width="260" />
   </a>
 
+  <a href="https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/">
+    <img src="https://github.com/user-attachments/assets/3db05555-ff57-48b9-adea-c2c99b8eb09e" alt="Software Architecture & Design of Modern Large Scale Systems" title="Software Architecture & Design of Modern Large Scale Systems" width="260" />
+  </a>
+
   <a href="https://www.udemy.com/course/az900-azure/">
     <img src="https://github.com/user-attachments/assets/058753f4-d981-4d4d-8dd5-1cb5a2bef6ce" alt="AZ-900: Microsoft Azure Fundamentals Exam Prep - 2025" title="AZ-900: Microsoft Azure Fundamentals Exam Prep - 2025" width="260" />
   </a>
